@@ -1,0 +1,39 @@
+table-chess {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #888888;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+}
+
+.ch-item {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.ch-black {
+    background: #111;
+}
+
+/*
+tr:nth-child(even) td:nth-child(odd) {
+    background-color: black;
+}
+tr:nth-child(odd) td:nth-child(even) {
+    background-color: black;
+}
+tr:last-child td:nth-child(odd),
+tr:first-child td:nth-child(even){
+    background-color: white;
+
+}
+tr:nth-child(even) td:first-child{
+    background-color: white;
+}
+tr:nth-child(odd) td:last-child{
+    background-color: white;
+}
+*/уфуф    ё    цу4    цу4    у4
